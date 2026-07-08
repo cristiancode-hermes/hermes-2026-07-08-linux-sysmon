@@ -1,0 +1,9 @@
+{
+  "name": "linux-sysmon",
+  "version": "1.0.0",
+  "description": "Linux System Monitor — low-level hardware info via sysfs, procfs, ioctl, mmap",
+  "dependencies": [
+    {"name": "spdlog", "version>=1.15.1"}
+  ],
+  "builtin-baseline": "1a795bb18ec69120d8b518c2b0a28210cdc0640c"
+}

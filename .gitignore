@@ -1,0 +1,27 @@
+# Build
+build/
+cmake-build-*/
+*.ninja
+*.ninja_log
+compile_commands.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.env
+
+# Misc
+*.o
+*.obj
+*.exe
+*.out
+*.app
